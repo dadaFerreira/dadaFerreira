@@ -6,10 +6,11 @@
 - Sou casado e pai de um menino lindo, o Gael (esse da foto do meu perfil).
 - Estou estudando para ser um desenvolvedor Java backend.
 - Desafios me motivam a ser melhor a cada dia.
+- Sou pronto à aprender.
 - Sou do Brasil, estado do Paraná. 
 
 ### Sobre tecnologia: 
-- Sou formado em Gestão Ambiental, e vivendo por uma transição de carreira. 
+- Sou formado em Gestão Ambiental, e vivendo uma transição de carreira. 
 - Sempre fui apaixonado por tecnologia e agora mais especificamente estudando programação Java. 
 
 Obrigado por sua visita! 
