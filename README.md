@@ -3,7 +3,7 @@
 ## Amo tecnologia 💻 e sou muito curioso 🤓. 
 
 ### Sobre mim: 
-- Sou casado e pai de um menino lindo, o Gael.
+- Sou casado e pai de um menino lindo, o Gael (esse da foto do meu perfil).
 - Estou estudando para ser um desenvolvedor Java backend.
 - Desafios me motivam a ser melhor a cada dia.
 - Sou do Brasil, estado do Paraná. 
@@ -14,9 +14,8 @@
 
 Obrigado por sua visita! 
 
-"A persistência é o caminho pro exito!" 
+### "A persistência é o caminho pro exito!" 
 Charles Chaplin
                                                                                                 
                                                                                                       
-                                                                                                                                                                                           
-                                                                                                         "A persistência é o caminho do êxito".  Charles Chaplin
+                                                                                                                                                                                                                                                                                                
